@@ -1,0 +1,32 @@
+{
+    "2025-06-01": {
+        "attended": true,
+        "moves": [
+            "armbar",
+            "triangle choke",
+            "hip escape"
+        ]
+    },
+    "2025-06-03": {
+        "attended": false,
+        "moves": []
+    },
+    "2025-06-05": {
+        "attended": true,
+        "moves": [
+            "guillotine choke",
+            "bridge escape"
+        ]
+    },
+    "2025-06-07": {
+        "attended": true,
+        "moves": [
+            "kimura",
+            "back escape"
+        ]
+    },
+    "2025-06-09": {
+        "attended": false,
+        "moves": []
+    }
+}

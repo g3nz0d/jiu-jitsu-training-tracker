@@ -1,0 +1,12 @@
+{
+    "Total Days Logged": 5,
+    "Days Attended": 3,
+    "Days Missed": 2,
+    "Attendance %": 60.0,
+    "Missed %": 40.0,
+    "Move Percentages": {
+        "Submissions": 28.57,
+        "Chokes": 28.57,
+        "Escapes": 42.86
+    }
+}
